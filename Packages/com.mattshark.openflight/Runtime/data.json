@@ -1177,6 +1177,16 @@
         "Weight": 1,
         "WingtipOffset": 3.81
       }
+    },
+      "Sworn Public": {
+        "Original": {
+          "Name": "Sworn Public",
+          "Creator": "Alıən",
+          "Introducer": "Vexprimagen",
+          "Hash": ["341832v2"],
+          "Weight": 1,
+          "WingtipOffset": 4.03
+      }
     }
   }
 }
